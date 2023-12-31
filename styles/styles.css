@@ -1,0 +1,106 @@
+body {
+font-family: arial;
+color: black;
+background-color: rgb(143, 204, 202);
+margin: 20px;
+}
+.mainmenu {
+display: flex;
+width: auto;
+border: 1px solid rgba(128, 128, 128, 0);
+height:80px;
+padding: 20px;
+}
+
+.image{
+font-size: 26px;
+display: inline-box;
+width: 120px;
+height: 100px;
+
+}
+
+#image-of-heart{
+width: 120px;
+height: 100px;
+
+}
+.lable{
+padding:35px;
+width: auto;
+height:20px;
+font-size:30px;
+}
+
+.navbar {
+font-size: 30px;
+display: inline-box;
+width: auto;
+height: auto;
+background-color: none;
+margin-left: auto;
+
+
+
+}
+.navbar-box {
+display:flex;
+list-style-type: none;
+
+
+
+
+}
+
+li {
+padding: 10px;
+margin:0px 5px 0px 5px;
+
+}
+li a{
+  
+  color: rgb(17, 8, 70);
+  font-size: 29px;
+}
+
+.section {
+  
+  font-size: 20px;
+  background-color: rgb(52, 186, 92);
+  padding: 5px;
+}
+
+.section-word {
+  width: auto;
+  height: auto;
+  
+  display: inline-block;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.section a{
+  margin: 0px 5px 0px 0px;
+}
+
+footer{
+  text-align: center;
+}
+
+
+
+.game {
+  color: rgba(0, 0, 0, 0.671);
+  border: 3px solid rgba(25, 209, 120, 0.548);
+  padding: 15px;
+  border-radius: 20px;
+  width:max-content;
+  height: auto;
+  background-color: rgba(0, 0, 0, 0.381);
+}
+
+.astronomy-game{
+  border: 1px solid red;
+  width: fit-content;
+}
